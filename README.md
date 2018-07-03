@@ -8,6 +8,18 @@ This is is 'a function'
 
 $$F=ma$$
 
-is it > useful?
+is it
 
-> [x] **OK?**
+> useful?
+
+- [x] **OK?**
+
+'''python
+import this 
+print(hello worrld!')
+
+for x in 'KKKasdqwd'
+  print(x,end='\n')
+
+
+'''
